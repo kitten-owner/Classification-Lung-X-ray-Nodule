@@ -1,0 +1,314 @@
+patient_id,path,Nodule/Mass
+00000091,More Bbox Nodule/merge/00000091_001.png,1
+00000132,More Bbox Nodule/merge/00000132_004.png,1
+00000138,More Bbox Nodule/merge/00000138_005.png,1
+00000157,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00000157_000.png,1
+00000165,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00000165_007.png,1
+00000232,More Bbox Nodule/merge/00000232_001.png,1
+00000282,More Bbox Nodule/merge/00000282_000.png,1
+00000336,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00000336_000.png,1
+00000340,More Bbox Nodule/merge/00000340_001.png,1
+00000370,More Bbox Nodule/merge/00000370_006.png,1
+00000402,More Bbox Nodule/merge/00000402_001.png,1
+00000626,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00000626_001.png,1
+00000695,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00000695_000.png,1
+00001012,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00001012_000.png,1
+00001023,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00001023_001.png,1
+00001164,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00001164_000.png,1
+00001182,More Bbox Nodule/merge/00001182_005.png,1
+00001404,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00001404_000.png,1
+00001442,More Bbox Nodule/merge/00001442_000.png,1
+00001517,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00001517_006.png,1
+00001654,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00001654_001.png,1
+00001722,More Bbox Nodule/merge/00001722_002.png,1
+00001781,More Bbox Nodule/merge/00001781_001.png,1
+00001974,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00001974_011.png,1
+00001995,More Bbox Nodule/merge/00001995_007.png,1
+00002010,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00002010_001.png,1
+00002066,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00002066_014.png,1
+00002133,More Bbox Nodule/merge/00002133_002.png,1
+00002165,More Bbox Nodule/merge/00002165_001.png,1
+00002170,More Bbox Nodule/merge/00002170_000.png,1
+00002413,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00002413_000.png,1
+00002599,More Bbox Nodule/merge/00002599_003.png,1
+00002701,More Bbox Nodule/merge/00002701_009.png,1
+00002832,More Bbox Nodule/merge/00002832_000.png,1
+00002885,More Bbox Nodule/merge/00002885_003.png,1
+00003054,More Bbox Nodule/merge/00003054_001.png,1
+00003061,More Bbox Nodule/merge/00003061_000.png,1
+00003174,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00003174_000.png,1
+00003224,More Bbox Nodule/merge/00003224_000.png,1
+00003363,More Bbox Nodule/merge/00003363_003.png,1
+00003365,More Bbox Nodule/merge/00003365_000.png,1
+00003522,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00003522_000.png,1
+00003528,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00003528_003.png,1
+00003550,More Bbox Nodule/merge/00003550_000.png,1
+00003599,More Bbox Nodule/merge/00003599_001.png,1
+00003881,More Bbox Nodule/merge/00003881_001.png,1
+00003973,More Bbox Nodule/merge/00003973_014.png,1
+00004049,More Bbox Nodule/merge/00004049_000.png,1
+00004104,More Bbox Nodule/merge/00004104_001.png,1
+00004328,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00004328_003.png,1
+00004399,More Bbox Nodule/merge/00004399_001.png,1
+00004436,More Bbox Nodule/merge/00004436_000.png,1
+00004495,More Bbox Nodule/merge/00004495_001.png,1
+00004520,More Bbox Nodule/merge/00004520_000.png,1
+00004546,More Bbox Nodule/merge/00004546_000.png,1
+00004547,More Bbox Nodule/merge/00004547_022.png,1
+00004734,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00004734_003.png,1
+00004806,More Bbox Nodule/merge/00004806_001.png,1
+00004808,More Bbox Nodule/merge/00004808_076.png,1
+00004889,More Bbox Nodule/merge/00004889_000.png,1
+00004911,More Bbox Nodule/merge/00004911_016.png,1
+00004943,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00004943_002.png,1
+00005014,More Bbox Nodule/merge/00005014_008.png,1
+00005094,More Bbox Nodule/merge/00005094_015.png,1
+00005182,More Bbox Nodule/merge/00005182_000.png,1
+00005311,More Bbox Nodule/merge/00005311_005.png,1
+00005456,More Bbox Nodule/merge/00005456_010.png,1
+00005461,More Bbox Nodule/merge/00005461_000.png,1
+00005477,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00005477_000.png,1
+00005493,More Bbox Nodule/merge/00005493_010.png,1
+00005502,More Bbox Nodule/merge/00005502_017.png,1
+00005518,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00005518_000.png,1
+00005527,More Bbox Nodule/merge/00005527_000.png,1
+00005666,More Bbox Nodule/merge/00005666_013.png,1
+00005776,More Bbox Nodule/merge/00005776_010.png,1
+00005873,More Bbox Nodule/merge/00005873_001.png,1
+00005932,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00005932_000.png,1
+00005935,More Bbox Nodule/merge/00005935_006.png,1
+00006029,More Bbox Nodule/merge/00006029_000.png,1
+00006096,More Bbox Nodule/merge/00006096_007.png,1
+00006207,More Bbox Nodule/merge/00006207_004.png,1
+00006281,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00006281_000.png,1
+00006361,More Bbox Nodule/merge/00006361_001.png,1
+00006373,More Bbox Nodule/merge/00006373_000.png,1
+00006440,More Bbox Nodule/merge/00006440_002.png,1
+00006639,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00006639_000.png,1
+00006710,More Bbox Nodule/merge/00006710_002.png,1
+00006721,More Bbox Nodule/merge/00006721_000.png,1
+00006829,More Bbox Nodule/merge/00006829_010.png,1
+00006903,More Bbox Nodule/merge/00006903_001.png,1
+00007057,More Bbox Nodule/merge/00007057_002.png,1
+00007268,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00007268_000.png,1
+00007366,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00007366_000.png,1
+00007394,More Bbox Nodule/merge/00007394_000.png,1
+00007454,More Bbox Nodule/merge/00007454_002.png,1
+00007497,More Bbox Nodule/merge/00007497_009.png,1
+00007557,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00007557_002.png,1
+00007731,More Bbox Nodule/merge/00007731_006.png,1
+00007780,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00007780_000.png,1
+00007782,More Bbox Nodule/merge/00007782_001.png,1
+00007862,More Bbox Nodule/merge/00007862_003.png,1
+00008103,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00008103_000.png,1
+00008152,More Bbox Nodule/merge/00008152_000.png,1
+00008188,More Bbox Nodule/merge/00008188_003.png,1
+00008256,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00008256_000.png,1
+00008345,More Bbox Nodule/merge/00008345_004.png,1
+00008514,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00008514_000.png,1
+00008527,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00008527_000.png,1
+00008620,More Bbox Nodule/merge/00008620_002.png,1
+00008732,More Bbox Nodule/merge/00008732_001.png,1
+00008841,More Bbox Nodule/merge/00008841_032.png,1
+00008893,More Bbox Nodule/merge/00008893_000.png,1
+00008897,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00008897_002.png,1
+00008943,More Bbox Nodule/merge/00008943_004.png,1
+00008998,More Bbox Nodule/merge/00008998_005.png,1
+00009019,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00009019_001.png,1
+00009178,More Bbox Nodule/merge/00009178_000.png,1
+00009185,More Bbox Nodule/merge/00009185_000.png,1
+00009431,More Bbox Nodule/merge/00009431_017.png,1
+00009551,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00009551_018.png,1
+00009653,More Bbox Nodule/merge/00009653_002.png,1
+00009709,More Bbox Nodule/merge/00009709_002.png,1
+00009758,More Bbox Nodule/merge/00009758_000.png,1
+00010369,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00010369_007.png,1
+00010516,More Bbox Nodule/merge/00010516_000.png,1
+00010646,More Bbox Nodule/merge/00010646_000.png,1
+00010815,More Bbox Nodule/merge/00010815_007.png,1
+00010905,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00010905_014.png,1
+00011049,More Bbox Nodule/merge/00011049_001.png,1
+00011093,More Bbox Nodule/merge/00011093_000.png,1
+00011270,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00011270_000.png,1
+00011401,More Bbox Nodule/merge/00011401_000.png,1
+00011696,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00011696_003.png,1
+00011799,More Bbox Nodule/merge/00011799_000.png,1
+00011849,More Bbox Nodule/merge/00011849_001.png,1
+00011878,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00011878_000.png,1
+00011943,More Bbox Nodule/merge/00011943_003.png,1
+00012161,More Bbox Nodule/merge/00012161_002.png,1
+00012163,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00012163_000.png,1
+00012376,More Bbox Nodule/merge/00012376_016.png,1
+00012415,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00012415_004.png,1
+00012515,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00012515_015.png,1
+00012563,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00012563_000.png,1
+00012738,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00012738_000.png,1
+00012850,More Bbox Nodule/merge/00012850_000.png,1
+00012879,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00012879_000.png,1
+00012888,More Bbox Nodule/merge/00012888_000.png,1
+00013231,More Bbox Nodule/merge/00013231_003.png,1
+00013537,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00013537_002.png,1
+00013559,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00013559_000.png,1
+00013574,More Bbox Nodule/merge/00013574_005.png,1
+00013994,More Bbox Nodule/merge/00013994_000.png,1
+00014006,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00014006_001.png,1
+00014060,More Bbox Nodule/merge/00014060_000.png,1
+00014094,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00014094_002.png,1
+00014208,More Bbox Nodule/merge/00014208_008.png,1
+00014218,More Bbox Nodule/merge/00014218_000.png,1
+00014280,More Bbox Nodule/merge/00014280_000.png,1
+00014397,More Bbox Nodule/merge/00014397_014.png,1
+00014596,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00014596_000.png,1
+00014607,More Bbox Nodule/merge/00014607_004.png,1
+00014735,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00014735_001.png,1
+00014790,More Bbox Nodule/merge/00014790_017.png,1
+00014880,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00014880_000.png,1
+00014895,More Bbox Nodule/merge/00014895_001.png,1
+00014919,More Bbox Nodule/merge/00014919_011.png,1
+00014953,More Bbox Nodule/merge/00014953_002.png,1
+00015095,More Bbox Nodule/merge/00015095_000.png,1
+00015105,More Bbox Nodule/merge/00015105_000.png,1
+00015108,More Bbox Nodule/merge/00015108_008.png,1
+00015136,More Bbox Nodule/merge/00015136_000.png,1
+00015162,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00015162_000.png,1
+00015333,More Bbox Nodule/merge/00015333_000.png,1
+00015364,More Bbox Nodule/merge/00015364_000.png,1
+00015369,More Bbox Nodule/merge/00015369_002.png,1
+00015503,More Bbox Nodule/merge/00015503_004.png,1
+00015562,More Bbox Nodule/merge/00015562_002.png,1
+00015600,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00015600_000.png,1
+00015814,More Bbox Nodule/merge/00015814_007.png,1
+00015892,More Bbox Nodule/merge/00015892_000.png,1
+00015913,More Bbox Nodule/merge/00015913_001.png,1
+00016117,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00016117_000.png,1
+00016166,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00016166_006.png,1
+00016167,More Bbox Nodule/merge/00016167_005.png,1
+00016191,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00016191_014.png,1
+00016280,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00016280_000.png,1
+00016404,More Bbox Nodule/merge/00016404_007.png,1
+00016422,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00016422_000.png,1
+00016587,More Bbox Nodule/merge/00016587_079.png,1
+00016775,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00016775_002.png,1
+00016971,More Bbox Nodule/merge/00016971_012.png,1
+00017031,More Bbox Nodule/merge/00017031_000.png,1
+00017141,More Bbox Nodule/merge/00017141_000.png,1
+00017324,More Bbox Nodule/merge/00017324_016.png,1
+00017333,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00017333_000.png,1
+00017375,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00017375_002.png,1
+00017541,More Bbox Nodule/merge/00017541_007.png,1
+00017562,More Bbox Nodule/merge/00017562_003.png,1
+00017599,More Bbox Nodule/merge/00017599_004.png,1
+00017786,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00017786_001.png,1
+00017837,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00017837_000.png,1
+00017933,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00017933_002.png,1
+00018002,More Bbox Nodule/merge/00018002_000.png,1
+00018249,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00018249_000.png,1
+00018254,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00018254_001.png,1
+00018427,More Bbox Nodule/merge/00018427_004.png,1
+00018586,More Bbox Nodule/merge/00018586_000.png,1
+00018652,More Bbox Nodule/merge/00018652_001.png,1
+00018857,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00018857_000.png,1
+00018983,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00018983_004.png,1
+00019097,More Bbox Nodule/merge/00019097_000.png,1
+00019115,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00019115_000.png,1
+00019458,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00019458_000.png,1
+00019493,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00019493_000.png,1
+00019624,More Bbox Nodule/merge/00019624_002.png,1
+00019882,More Bbox Nodule/merge/00019882_000.png,1
+00019965,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00019965_001.png,1
+00020009,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00020009_000.png,1
+00020095,More Bbox Nodule/merge/00020095_001.png,1
+00020115,More Bbox Nodule/merge/00020115_001.png,1
+00020163,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00020163_000.png,1
+00020179,More Bbox Nodule/merge/00020179_000.png,1
+00020275,More Bbox Nodule/merge/00020275_001.png,1
+00020298,More Bbox Nodule/merge/00020298_000.png,1
+00020326,More Bbox Nodule/merge/00020326_025.png,1
+00020332,More Bbox Nodule/merge/00020332_000.png,1
+00020374,More Bbox Nodule/merge/00020374_000.png,1
+00020393,More Bbox Nodule/merge/00020393_003.png,1
+00020631,More Bbox Nodule/merge/00020631_002.png,1
+00020680,More Bbox Nodule/merge/00020680_002.png,1
+00020697,More Bbox Nodule/merge/00020697_000.png,1
+00020921,More Bbox Nodule/merge/00020921_000.png,1
+00020941,More Bbox Nodule/merge/00020941_000.png,1
+00020953,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00020953_000.png,1
+00020974,More Bbox Nodule/merge/00020974_002.png,1
+00021017,More Bbox Nodule/merge/00021017_000.png,1
+00021067,More Bbox Nodule/merge/00021067_000.png,1
+00021073,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00021073_011.png,1
+00021150,More Bbox Nodule/merge/00021150_000.png,1
+00021179,More Bbox Nodule/merge/00021179_005.png,1
+00021286,More Bbox Nodule/merge/00021286_001.png,1
+00021403,More Bbox Nodule/merge/00021403_002.png,1
+00021449,More Bbox Nodule/merge/00021449_006.png,1
+00021786,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00021786_000.png,1
+00021813,More Bbox Nodule/merge/00021813_001.png,1
+00022065,More Bbox Nodule/merge/00022065_010.png,1
+00022326,More Bbox Nodule/merge/00022326_000.png,1
+00022363,More Bbox Nodule/merge/00022363_000.png,1
+00022412,More Bbox Nodule/merge/00022412_002.png,1
+00022585,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00022585_000.png,1
+00022628,More Bbox Nodule/merge/00022628_000.png,1
+00022651,More Bbox Nodule/merge/00022651_003.png,1
+00022726,More Bbox Nodule/merge/00022726_021.png,1
+00022748,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00022748_000.png,1
+00022852,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00022852_000.png,1
+00022958,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00022958_000.png,1
+00022977,More Bbox Nodule/merge/00022977_007.png,1
+00023033,More Bbox Nodule/merge/00023033_007.png,1
+00023065,More Bbox Nodule/merge/00023065_002.png,1
+00023078,More Bbox Nodule/merge/00023078_003.png,1
+00023137,More Bbox Nodule/merge/00023137_000.png,1
+00023307,More Bbox Nodule/merge/00023307_000.png,1
+00023313,More Bbox Nodule/merge/00023313_006.png,1
+00023957,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00023957_000.png,1
+00024814,More Bbox Nodule/merge/00024814_000.png,1
+00024876,More Bbox Nodule/merge/00024876_000.png,1
+00025128,More Bbox Nodule/merge/00025128_000.png,1
+00025150,More Bbox Nodule/merge/00025150_004.png,1
+00025264,More Bbox Nodule/merge/00025264_001.png,1
+00025461,More Bbox Nodule/merge/00025461_002.png,1
+00025628,More Bbox Nodule/merge/00025628_000.png,1
+00025662,More Bbox Nodule/merge/00025662_005.png,1
+00025714,More Bbox Nodule/merge/00025714_000.png,1
+00025833,More Bbox Nodule/merge/00025833_000.png,1
+00025923,More Bbox Nodule/merge/00025923_001.png,1
+00026223,More Bbox Nodule/merge/00026223_000.png,1
+00026292,More Bbox Nodule/merge/00026292_007.png,1
+00026443,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00026443_001.png,1
+00026478,More Bbox Nodule/merge/00026478_003.png,1
+00026543,More Bbox Nodule/merge/00026543_001.png,1
+00026585,More Bbox Nodule/merge/00026585_000.png,1
+00026606,More Bbox Nodule/merge/00026606_000.png,1
+00026853,More Bbox Nodule/merge/00026853_000.png,1
+00026878,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00026878_000.png,1
+00026911,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00026911_005.png,1
+00027054,More Bbox Nodule/merge/00027054_001.png,1
+00027156,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00027156_000.png,1
+00027300,More Bbox Nodule/merge/00027300_000.png,1
+00027560,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00027560_000.png,1
+00027564,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00027564_001.png,1
+00027678,More Bbox Nodule/merge/00027678_003.png,1
+00027702,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00027702_000.png,1
+00028219,More Bbox Nodule/merge/00028219_005.png,1
+00028240,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00028240_002.png,1
+00028314,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00028314_000.png,1
+00028387,More Bbox Nodule/merge/00028387_000.png,1
+00028453,More Bbox Nodule/merge/00028453_002.png,1
+00028628,More Bbox Nodule/merge/00028628_000.png,1
+00028915,More Bbox Nodule/merge/00028915_000.png,1
+00028923,More Bbox Nodule/merge/00028923_002.png,1
+00028975,More Bbox Nodule/merge/00028975_002.png,1
+00029015,More Bbox Nodule/merge/00029015_000.png,1
+00029105,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00029105_027.png,1
+00029255,More Bbox Nodule/merge/00029255_000.png,1
+00029269,More Bbox Nodule/merge/00029269_000.png,1
+00029301,More Bbox Nodule/merge/00029301_000.png,1
+00029470,More Bbox Nodule/merge/00029470_000.png,1
+00029650,More Bbox Nodule/merge/00029650_000.png,1
+00029688,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00029688_000.png,1
+00029943,More Bbox Nodule/merge/00029943_001.png,1
+00030301,More Bbox Nodule/merge/00030301_000.png,1
+00030697,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00030697_000.png,1
+00030726,NODE21/dataset_node21/cxr_images/original_data/png_Nodule/00030726_000.png,1
